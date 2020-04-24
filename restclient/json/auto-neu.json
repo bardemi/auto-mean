@@ -1,0 +1,12 @@
+{
+  "fahrgestellnummer": "WBAVB71070VA36703",
+  "marke": "BMW",
+  "modell": "320",
+  "art": "PKW",
+  "sitze": 5,
+  "preis": 20000,
+  "lieferbar": true,
+  "lieferdatum": "2020-06-01T00:00:00.000Z",
+  "homepage": "www.bmw.de",
+  "schlagwoerter": ["SPORTWAGEN", "LIMOUSINE"]
+}
